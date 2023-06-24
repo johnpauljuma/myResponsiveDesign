@@ -1,0 +1,160 @@
+body{
+    background-color:#fbfcfd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+@media only screen and (max-width: 600px) {
+    body{
+        background-color: rgb(241, 245, 247);
+    }
+}
+img{
+    width: 40%;
+    float: right;
+    padding:10px;
+}
+.div{
+    background-color: yellow;
+    color: #388E3C;
+    font-size: larger;
+    font-family: 'Bebas Neue', cursive;
+    padding: 1px;
+    margin: 2px;
+    height: fit-content;
+    width: max-content;
+    display: inline-block;
+    border-radius: 20%;
+    
+  }
+  
+  .nav{
+    background-color: rgb(219, 222, 223);
+    width: 100%;
+    border: 1px;
+  }
+nav{
+    position: absolute;
+    top:0 ;
+    width:100%;
+    float:right;
+}
+.nav_links{
+    text-decoration: none;
+    font-family: 'montserrat', sans-serif;
+    font-size: 16px;
+    float:right;
+    color: #edf0f1;
+
+}
+.nav_links a:hover{
+    color: #edf0f1;
+    text-decoration: none;
+
+}
+
+.bg_img{
+    background-image: url(nbiUhurup.jpg);
+    min-height: 200px;
+    background-position: center;
+    position: relative;
+
+
+}
+.container{
+    position:absolute;
+    margin: 25px;
+    width: auto;
+    padding: 20px;
+    
+}
+.topnav a{
+    float: right;
+    border: 30px;
+}
+li{
+    display: inline;
+    padding: 14px;
+    float: left;
+
+
+}
+table{
+    border:"1px";
+     width:"100%"; 
+     height:"400px";
+     color: black;
+}
+.topnav{
+    float: right;
+}
+.form{
+    padding: 20px;
+   margin:auto;
+
+
+}
+.fom{
+    border: solid 1px;
+    height: auto;
+    width: 80%;
+    border-radius: 4px;
+    
+}
+.fomdiv{
+    margin: 2px;
+    padding: 1em;
+    display: block;
+}
+.fomdivchild{
+    display: inline-block;
+    padding: 5px;
+}
+button{
+    text-decoration: #4493ee;
+    color: blue;
+    font-size: medium;
+}
+.footer{
+    padding: 10px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 10%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    float: right;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    float: right;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+    float: right;
+  } 
+  
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+    float: right;
+  }
+  
+  

@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{
+    
+    
+}
+div{
+    border:  2px;
+    margin: 2px;
+}
+    .div{
+    height: 100%;
+    width: 100%;
+    
+}
+.divn{
+    background-color: whitesmoke;
+  font-size: medium;
+  font-family: 'Bebas Neue', cursive;
+  padding: 1em;
+  margin: 2px;
+  height: fit-content;
+  width: max-content;
+  display: inline-block;
+  border-radius: 20%;
+    
+  }
+  
+  .nav{
+    background-color: aliceblue;
+    width: 100%;
+    border: 1px;
+  }
+.logo{
+    height: 400px;
+    width: 950px;
+    opacity: 2;
+    image-rendering: optimizeQuality;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: ;
+}
+.div1{
+    height: fit-content;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    
+}
+.div2{
+    
+    height: 10em;
+}
+.div3{
+    background-color: aliceblue;
+    height: fit-content;
+    font-size: large;
+    width: 100%;
+
+}
+.div4{
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+#head{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: rgb(14, 15, 14);
+    background-color: rgb(240, 237, 230);
+    width: auto;
+} 
+.div5{
+    height: fit-content;
+    display: block;
+    background-color: rgb(39, 42, 42);
+} 
+.div5child{
+    height: auto;
+    max-width: 100%;
+    display: inline-block;
+    background-color: rgb(30, 31, 31);
+    margin-right: 1.5em;
+    margin-left: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.image1{
+    height: 15em;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+}
+.div6{
+    height: 10em;
+    background-color: rgb(0, 255, 132);
+    width: 100%;
+} 
+.footer{
+    padding: 10px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 10%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  } 
+  
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  @media (max-width: 600px) {
+    .logo{
+        height: auto;
+        width: 350px;
+        opacity: 1;
+    }
+    
+  }

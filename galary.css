@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{
+    background-color: rgb(242, 242, 247);
+    
+}
+.div{
+    background-color: ;
+    color: ;
+    font-size: larger;
+    font-family: 'Bebas Neue', cursive;
+    padding: 4px;
+    margin: 2px;
+    height: fit-content;
+    width: max-content;
+    display: inline-block;
+    border-radius: 20%;
+    
+  }
+  
+  .nav{
+    background-color: rgb(219, 222, 223);
+    width: 100%;
+    border: 1px;
+  }
+  .logo{
+    height: 300px;
+    width: 900px;
+    opacity: 2;
+    image-rendering: optimizeQuality;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: ;
+  }
+  .div5{
+    height: fit-content;
+    display: block;
+    background-color: rgb(39, 42, 42);
+} 
+.div5child{
+    height: auto;
+    max-width: 100%;
+    display: inline-block;
+    background-color: rgb(30, 31, 31);
+    margin-right: 1.5em;
+    margin-left: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.image1{
+    height: 15em;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+}
+#head{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: rgb(12, 12, 12);
+    color: white;
+    width: auto;
+    text-align: center;
+}.footer{
+    padding: 10px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 10%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  } 
+  
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }

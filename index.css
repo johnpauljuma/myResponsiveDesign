@@ -1,0 +1,248 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+  
+div{
+    border: 1px; 
+
+}
+.div{
+  background-color: whitesmoke;
+  font-size: medium;
+  font-family: 'Bebas Neue', cursive;
+  padding: 1em;
+  margin: 2px;
+  height: fit-content;
+  width: max-content;
+  display: inline-block;
+  border-radius: 20%;
+  
+}
+
+.nav{
+  background-color: rgb(219, 222, 223);
+  width: 100%;
+  border: 1px;
+  position: relative;
+  overflow: hidden;
+}
+#heading{
+  font-family: 'Bebas Neue', cursive;   
+  height: 4em;
+  background-color: whitesmoke;
+  width: 100%;
+  
+}
+.body{
+  background-color: beige;
+  
+}
+.img1{
+  height: auto;
+  max-width: 100%;
+  opacity: 1;
+  border-radius: 10%;
+  display: block;
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#contents{
+  float: right 
+}
+.logo1{
+  height:10em; 
+}
+.logo{
+  height: 400px;
+  width: 900px;
+  opacity: 2;
+  image-rendering: optimizeQuality;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 5px;
+  border-radius: 4px;
+  border: solid 1px;
+}
+h2{
+  margin: auto;
+  bottom: 60px;
+  font-size: 40px; 
+}
+.divm{
+  display: block;
+  height: fit-content;
+  width: 100%;
+  padding: 2px;
+  background-color: #f0f5f1;
+  border:  2px;
+}
+.divmchild{
+  display: inline-block;
+  border: 1px;
+  background-color: rgb(248, 250, 251); 
+  width: 30%;
+  position: relative;
+}
+#divm1{
+  width: 23%;
+}
+#divm2{
+  width: 52%;
+}
+.imgk{
+  opacity: 1;
+  border-radius: 1%;
+  height: 310px;
+  width: 540px;
+  font-size: x-large;
+  padding: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  align-self: center;
+  
+} 
+.out3{
+  height: 350px; 
+  width: 900px;
+}
+.footer{
+  padding: 10px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 10%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+} 
+
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+li{
+  display: inline;
+  padding: 14px;
+}
+
+h1{
+ text-align: center;
+  
+  font-size: xx-large;
+  }
+#ul1{
+ font-size: larger;
+ font-family: 'Bebas Neue', cursive;
+ float:right;
+}
+#li {
+  display: inline;
+  float: right;
+  margin-bottom: 2px;
+}
+/*a:link {
+  color:rgb(23, 16, 230);
+}
+
+/* visited link */
+/*a:visited {
+  color:rgb(138, 14, 227);
+}
+
+/* mouse over link */
+a:hover {
+  color: #07f113;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+@media(min-width:600px) and (max-width: 776px){
+  .img1{
+    height: 30px;
+    width: 25px;
+  }
+  .logo{
+    width: 600px;
+    height: 500px;
+    opacity: 1;
+  }
+  .imgk{
+    width: 600px;
+    height: 400px;
+    opacity: 1;
+  }
+  #divm1{
+    width: 100%;
+  }
+  #divm2{
+    width: 100%;
+  }
+  .out3{
+    width: 600px;
+    height: 400px;
+  }
+}
+@media (max-width: 600px) {
+  .logo{
+    width: 350px;
+    height: 250px;
+    opacity: 1;
+  }
+  .imgk{
+    width: 350px;
+    height: 250px;
+    opacity: 1;
+  }
+  .divmchild{
+    display: block;
+    width: 100%;
+  }
+  div{
+    width: 100%;
+    height: auto;
+  }
+  #divm1{
+    width: 100%;
+  }
+  #divm2{
+    width: 100%;
+  }
+  .out3{
+    width: 350px;
+    height: 200px;
+  }
+}
+
+
+
+
+   
+    
+      
